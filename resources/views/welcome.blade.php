@@ -3,7 +3,7 @@
 		<aside id="colorlib-hero">
 			<div class="flexslider">
 				<ul class="slides">
-			   	<li style="background-image: url(images/blog-6.jpg);">
+			   	<li style="background-image: url(images/b.jpg);">
 			   		<div class="overlay"></div>
 			   		<div class="container-fluid">
 			   			<div class="row">
@@ -16,7 +16,7 @@
 				   		</div>
 			   		</div>
 			   	</li>
-			   	<li style="background-image: url(images/img_bg_2.jpg);">
+			   	<li style="background-image: url(images/g.jpg);">
 			   		<div class="overlay"></div>
 			   		<div class="container-fluid">
 			   			<div class="row">
@@ -29,7 +29,7 @@
 				   		</div>
 			   		</div>
 			   	</li>
-			   	<li style="background-image: url(images/img_bg_3.jpg);">
+			   	<li style="background-image: url(images/e.jpg);">
 			   		<div class="overlay"></div>
 			   		<div class="container-fluid">
 			   			<div class="row">
@@ -42,7 +42,7 @@
 				   		</div>
 			   		</div>
 			   	</li>
-			   	<li style="background-image: url(images/img_bg_4.jpg);">
+			   	<li style="background-image: url(images/d.jpg);">
 			   		<div class="overlay"></div>
 			   		<div class="container-fluid">
 			   			<div class="row">
@@ -205,7 +205,7 @@
 				</div>
 			</div>
 		</div>
-		<div id="colorlib-counter" class="colorlib-counters" style="background-image: url(images/img_bg_1.jpg);" data-stellar-background-ratio="0.5">
+		<div id="colorlib-counter" class="colorlib-counters" style="background-image: url(images/b.jpg);" data-stellar-background-ratio="0.5">
 				<div class="overlay"></div>
 				<div class="container">
 					<div class="row">
@@ -261,7 +261,7 @@
 				<div class="row">
 					<div class="col-md-4 animate-box">
 						<div class="classes">
-							<div class="classes-img" style="background-image: url(images/classes-1.jpg);">
+							<div class="classes-img" style="background-image: url(images/e.jpg);">
 								<span class="price text-center"><small>Form one East</small></span>
 							</div>
 							<div class="desc">
@@ -273,7 +273,7 @@
 					</div>
 					<div class="col-md-4 animate-box">
 						<div class="classes">
-							<div class="classes-img" style="background-image: url(images/classes-2.jpg);">
+							<div class="classes-img" style="background-image: url(images/f.jpg);">
 								<span class="price text-center"><small>Form one West</small></span>
 							</div>
 							<div class="desc">
@@ -285,7 +285,7 @@
 					</div>
 					<div class="col-md-4 animate-box">
 						<div class="classes">
-							<div class="classes-img" style="background-image: url(images/classes-3.jpg);">
+							<div class="classes-img" style="background-image: url(images/c.jpg);">
 								<span class="price text-center"><small>Form Two East</small></span>
 							</div>
 							<div class="desc">
@@ -297,7 +297,7 @@
 					</div>
 					<div class="col-md-4 animate-box">
 						<div class="classes">
-							<div class="classes-img" style="background-image: url(images/classes-4.jpg);">
+							<div class="classes-img" style="background-image: url(images/d.jpg);">
 								<span class="price text-center"><small>Form Two West</small></span>
 							</div>
 							<div class="desc">
@@ -309,7 +309,7 @@
 					</div>
 					<div class="col-md-4 animate-box">
 						<div class="classes">
-							<div class="classes-img" style="background-image: url(images/classes-5.jpg);">
+							<div class="classes-img" style="background-image: url(images/a.jpg);">
 								<span class="price text-center"><small>Form Three East</small></span>
 							</div>
 							<div class="desc">
@@ -321,7 +321,7 @@
 					</div>
 					<div class="col-md-4 animate-box">
 						<div class="classes">
-							<div class="classes-img" style="background-image: url(images/classes-6.jpg);">
+							<div class="classes-img" style="background-image: url(images/d.jpg);">
 								<span class="price text-center"><small>Form Three West</small></span>
 							</div>
 							<div class="desc">
@@ -335,7 +335,7 @@
 			</div>	
 		</div>
 
-		<div id="colorlib-testimony" class="testimony-img" style="background-image: url(images/img_bg_1.jpg);" data-stellar-background-ratio="0.5">
+		<div id="colorlib-testimony" class="testimony-img" style="background-image: url(images/b.jpg);" data-stellar-background-ratio="0.5">
 			<div class="overlay"></div>
 			<div class="container">
 				<div class="row">
@@ -451,7 +451,7 @@
 					</div>
 				</div>
 				<div class="event-flex row-pb-sm">
-					<div class="half event-img animate-box" style="background-image: url(images/img_bg_2.jpg);">
+					<div class="half event-img animate-box" style="background-image: url(images/c.jpg);">
 					</div>
 					<div class="half">
 						<div class="row">
@@ -512,7 +512,7 @@
 				<div class="row">
 					<div class="col-md-6 animate-box">
 						<article class="article-entry">
-							<a href="blog.html" class="blog-img" style="background-image: url(images/blog-2.jpg);">
+							<a href="blog.html" class="blog-img" style="background-image: url(images/e.jpg);">
 								<p class="meta"><span class="day">18</span><span class="month">Jan</span></p>
 							</a>
 							<div class="desc">
@@ -524,7 +524,7 @@
 					</div>
 					<div class="col-md-6">
 						<div class="f-blog animate-box">
-							<a href="blog.html" class="blog-img" style="background-image: url(images/blog-1.jpg);">
+							<a href="blog.html" class="blog-img" style="background-image: url(images/f.jpg);">
 							</a>
 							<div class="desc">
 								<h2><a href="blog.html">Official 2019 opener examination</a></h2>
@@ -533,7 +533,7 @@
 							</div>
 						</div>
 						<div class="f-blog animate-box">
-							<a href="blog.html" class="blog-img" style="background-image: url(images/blog-5.jpg);">
+							<a href="blog.html" class="blog-img" style="background-image: url(images/a.jpg);">
 							</a>
 							<div class="desc">
 								<h2><a href="blog.html">Visiting Day</a></h2>
@@ -542,7 +542,7 @@
 							</div>
 						</div>
 						<div class="f-blog animate-box">
-							<a href="blog.html" class="blog-img" style="background-image: url(images/blog-3.jpg);">
+							<a href="blog.html" class="blog-img" style="background-image: url(images/g.jpg);">
 							</a>
 							<div class="desc">
 								<h2><a href="blog.html">School Debate</a></h2>

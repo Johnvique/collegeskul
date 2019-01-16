@@ -113,7 +113,7 @@
 		</nav>
         @yield('content')
         
-		<div id="colorlib-subscribe" class="subs-img" style="background-image: url(images/img_bg_1.jpg);" data-stellar-background-ratio="0.5">
+		<div id="colorlib-subscribe" class="subs-img" style="background-image: url(images/d.jpg);" data-stellar-background-ratio="0.5">
 			<div class="overlay"></div>
 			<div class="container">
 				<div class="row">
@@ -178,7 +178,7 @@
 					<div class="col-md-3 colorlib-widget">
 						<h4>Recent Post</h4>
 						<div class="f-blog">
-							<a href="blog.html" class="blog-img" style="background-image: url(images/blog-1.jpg);">
+							<a href="blog.html" class="blog-img" style="background-image: url(images/e.jpg);">
 							</a>
 							<div class="desc">
 								<h2><a href="blog.html">Opening Dates</a></h2>
@@ -186,7 +186,7 @@
 							</div>
 						</div>
 						<div class="f-blog">
-							<a href="blog.html" class="blog-img" style="background-image: url(images/blog-2.jpg);">
+							<a href="blog.html" class="blog-img" style="background-image: url(images/f.jpg);">
 							</a>
 							<div class="desc">
 								<h2><a href="blog.html">Prayer Day</a></h2>
@@ -194,7 +194,7 @@
 							</div>
 						</div>
 						<div class="f-blog">
-							<a href="blog.html" class="blog-img" style="background-image: url(images/blog-3.jpg);">
+							<a href="blog.html" class="blog-img" style="background-image: url(g.jpg);">
 							</a>
 							<div class="desc">
 								<h2><a href="blog.html">Opener Examination</a></h2>
