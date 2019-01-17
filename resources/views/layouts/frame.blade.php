@@ -3,7 +3,7 @@
 	<head>
 	<meta charset="utf-8">
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
-	<title>Private School</title>
+	<title>Rangwe Polytechnic College</title>
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<meta name="description" content="" />
 	<meta name="keywords" content="" />
@@ -64,7 +64,7 @@
 				<div class="container">
 					<div class="row">
 						<div class="col-xs-4">
-							<p>Welcome to Private School</p>
+							<p>Welcome to Rangwe Polytechnic College</p>
 						</div>
 						<div class="col-xs-6 col-md-push-2 text-right">
 							<p>
@@ -84,7 +84,7 @@
 				<div class="container">
 					<div class="row">
 						<div class="col-md-2">
-							<div id="colorlib-logo"><a href="index.html">Pivate School</a></div>
+							<div id="colorlib-logo"><a href="index.html">Rangwe Polytechnic College</a></div>
 						</div>
 						<div class="col-md-10 text-right menu-1">
 							<ul>
@@ -98,6 +98,7 @@
 										<li><a href="#">Marketing Management</a></li>
 										<li><a href="#">Sociology</a></li>
 										<li><a href="#">Youth Mentorship</a></li>
+										<li><a href="#">Carpentry and Woodwork</a></li>
 									</ul>
 								</li>
 								<li><a href="{{url('about')}}">About</a></li>
@@ -118,7 +119,7 @@
 			<div class="container">
 				<div class="row">
 					<div class="col-md-8 col-md-offset-2 text-center colorlib-heading animate-box">
-						<h2>School Newsletter</h2>
+						<h2>College Newsletter</h2>
 						<p>Check our School newsletter and get latest update</p>
 					</div>
 				</div>
@@ -134,7 +135,7 @@
 								</div>
 								<div class="col-one-third">
 									<div class="form-group">
-										<button type="submit" class="btn btn-primary">Subscribe Now</button>
+										<button type="submit" class="btn btn-primary">Talk To Us Now</button>
 									</div>
 								</div>
 							</form>
@@ -148,7 +149,7 @@
 			<div class="container">
 				<div class="row row-pb-md">
 					<div class="col-md-3 colorlib-widget">
-						<h4>About Private School</h4>
+						<h4>About Rangwe Polytechnic</h4>
 						<p>Lorem, ipsum dolor sit amet consectetur adipisicing elit.
 						Laudantium quos delectus repellendus totam voluptas nam dicta neque odio,
 						    alias nemo eaque ullam quo atque saepe culpa id molestias? Illo, eos!</p>
@@ -189,7 +190,7 @@
 							<a href="blog.html" class="blog-img" style="background-image: url(images/f.jpg);">
 							</a>
 							<div class="desc">
-								<h2><a href="blog.html">Prayer Day</a></h2>
+								<h2><a href="blog.html">Arrival Of New Students</a></h2>
 								<p class="admin"><span>12 January 2019</span></p>
 							</div>
 						</div>
@@ -197,7 +198,7 @@
 							<a href="blog.html" class="blog-img" style="background-image: url(g.jpg);">
 							</a>
 							<div class="desc">
-								<h2><a href="blog.html">Opener Examination</a></h2>
+								<h2><a href="blog.html">Registration To KASNEB Examination</a></h2>
 								<p class="admin"><span>14 January 2019</span></p>
 							</div>
 						</div>
@@ -206,10 +207,10 @@
 					<div class="col-md-3 colorlib-widget">
 						<h4>Contact Info</h4>
 						<ul class="colorlib-footer-links">
-							<li>Private School,<br>P.O BOX,236-40222,OYUGIS-KENYA</li>
+							<li>Rangwe Polytechnic College,<br>P.O BOX,236-40222,OYUGIS-KENYA</li>
 							<li><a href="tel://0712220054"><i class="icon-phone"></i> + 254712220054</a></li>
-							<li><a href="mailto:privateschool@gmail.com"><i class="icon-envelope"></i>private@gmail.com</a></li>
-							<li><a href="http://privateschool.com"><i class="icon-location4"></i>privateschool.com</a></li>
+							<li><a href="mailto:rangwepolytechnic@gmail.com"><i class="icon-envelope"></i>rangwepolytechnic@gmail.com</a></li>
+							<li><a href="http://rangwepolycollege.com"><i class="icon-location4"></i>rangwepolycollege.com</a></li>
 						</ul>
 					</div>
 				</div>

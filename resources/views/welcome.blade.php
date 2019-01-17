@@ -9,7 +9,7 @@
 			   			<div class="row">
 				   			<div class="col-md-8 col-sm-12 col-md-offset-2 slider-text">
 				   				<div class="slider-text-inner text-center">
-				   					<h1 style="color: #FE0000">Welcome To Private School</h1>
+				   					<h1 style="color: #FE0000">Welcome To Rangwe Institute</h1>
 				   					<p><a href="#" class="btn btn-primary btn-lg btn-learn">Register Now</a></p>
 				   				</div>
 				   			</div>
@@ -67,14 +67,14 @@
 							<div class="one-third color-1 animate-box">
 								<span class="icon"><i class="flaticon-market"></i></span>
 								<div class="desc">
-									<h3>Subjects Learned</h3>
+									<h3>Specific Course</h3>
 									<p><a href="#" class="view-more">View More</a></p>
 								</div>
 							</div>
 							<div class="one-third color-2 animate-box">
 								<span class="icon"><i class="flaticon-open-book"></i></span>
 								<div class="desc">
-									<h3>Check The School Yearly Perfomance</h3>
+									<h3>Check The College Yearly Attributes</h3>
 									<p><a href="#" class="view-more">View More</a></p>
 								</div>
 							</div>
@@ -88,11 +88,9 @@
 					</div>
 					<div class="col-md-8">
 						<div class="about-desc animate-box">
-							<h2 style="color: #0000FE">Welcome To Private School</h2>
+							<h2 style="color: #0000FE">Welcome To Rangwe Training Institute</h2>
 							<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. 
-                            Soluta ratione quisquam natus praesentium ducimus blanditiis, similique obcaecati, 
-                            porro, expedita ipsum temporibus provident explicabo neque dignissimos earum vitae debitis? Sunt,
-                             qui.</p>
+                            Soluta ratione quisquam natus praesentium ducimus bland.</p>
 							<div class="fancy-collapse-panel">
 	                    <div class="panel-group" id="accordion" role="tablist" aria-multiselectable="true">
 	                     <div class="panel panel-default">
@@ -107,7 +105,7 @@
 	                                 <div class="row">
 									      		<div class="col-md-6">
 									      			<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Aut blanditiis tenetur illum deserunt eius incidunt odio reprehenderit reiciendis sed placeat dolorem ratione minus, 
-                                                      consectetur quasi alias voluptate sint, dolores delectus!</p>
+                                                      consectetur quasi alias voluptate sint.</p>
 									      		</div>
 									      		<div class="col-md-6">
 									      			<p>Lorem ipsum dolor sit amet consectetur adipisicing elit.
@@ -128,8 +126,8 @@
 	                             <div class="panel-body">
 	                                 <p>Far far away, behind the word <strong>mountains</strong>, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean.</p>
 												<ul>
-													<li>Separated they live in Bookmarksgrove right</li>
-													<li>Separated they live in Bookmarksgrove right</li>
+													<li>Lorem ipsum dolor sit, amet consectetur adipisicing elit.</li>
+													<li>Lorem ipsum dolor sit, amet consectetur adipisicing elit.</li>
 												</ul>
 	                             </div>
 	                         </div>
@@ -143,7 +141,7 @@
 	                         </div>
 	                         <div id="collapseThree" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingThree">
 	                             <div class="panel-body">
-	                                 <p>Far far away, behind the word <strong>mountains</strong>, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean.</p>	
+	                                 <p>Far far<strong>mountains</strong>, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean.</p>	
 	                             </div>
 	                         </div>
 	                     </div>
@@ -164,8 +162,8 @@
 								<i class="flaticon-books"></i>
 							</span>
 							<div class="desc">
-								<h3>Compulsary Subject For Students</h3>
-								<p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Velit deleniti minima, expedita sed sunt reprehenderit voluptatibus sapiente, harum atque natus molestiae doloribus odit consequatur libero ea laborum nulla doloremque dolorum!</p>
+								<h3>College Weekly Programmes</h3>
+								<p>Lorem ipsum dolor sit doloribus odit consequatur libermque dolorum!</p>
 							</div>
 						</div>
 					</div>
@@ -175,8 +173,8 @@
 								<i class="flaticon-professor"></i>
 							</span>
 							<div class="desc">
-								<h3>Experienced Teachers</h3>
-								<p>Separated they live in Bookmarksgrove right at the coast of the Semantics</p>
+								<h3>Experienced Tutor</h3>
+								<p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
 							</div>
 						</div>
 					</div>
@@ -186,8 +184,8 @@
 								<i class="flaticon-book"></i>
 							</span>
 							<div class="desc">
-								<h3>Practical Subjects</h3>
-								<p>Separated they live in Bookmarksgrove right at the coast of the Semantics</p>
+								<h3>Practical Units</h3>
+								<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Error.</p>
 							</div>
 						</div>
 					</div>
@@ -198,7 +196,8 @@
 							</span>
 							<div class="desc">
 								<h3>Validated Certificates</h3>
-								<p>Separated they live in Bookmarksgrove right at the coast of the Semantics</p>
+								<p>Lorem ipsum dolor sit amet consectetur, 
+								adipisicing elit. Distinctio fugiat ratione voluptatem amet quia.</p>
 							</div>
 						</div>
 					</div>
@@ -233,7 +232,7 @@
 									<span class="icon"><i class="flaticon-professor"></i></span>
 									<div class="desc">
 										<span class="colorlib-counter js-counter" data-from="0" data-to="2300" data-speed="5000" data-refresh-interval="50"></span>
-										<span class="colorlib-counter-label">Teachers</span>
+										<span class="colorlib-counter-label">Lecturers</span>
 									</div>
 								</div>
 							</div>
@@ -254,19 +253,21 @@
 			<div class="container">
 				<div class="row">
 					<div class="col-md-8 col-md-offset-2 text-center colorlib-heading animate-box">
-						<h2>Our Classes</h2>
-						<p>Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic life One day however a small line of blind text by the name</p>
+						<h2>Our Schools and Department</h2>
+						<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. 
+						Similique alias cumque ducimus quibusdam, quos cum delectus nemo r</p>
 					</div>
 				</div>
 				<div class="row">
 					<div class="col-md-4 animate-box">
 						<div class="classes">
 							<div class="classes-img" style="background-image: url(images/e.jpg);">
-								<span class="price text-center"><small>Form one East</small></span>
+								<span class="price text-center"><small>January Intake</small></span>
 							</div>
 							<div class="desc">
-								<h3><a href="#">Lunch Time quiz</a></h3>
-								<p>Pointing has no control about the blind texts it is an almost unorthographic life</p>
+								<h3><a href="#">Youth Mentorship Department</a></h3>
+								<p>Lorem ipsum dolor sit, amet consect,
+								 obcaecati eos reprehenderit quis ipsam fugit unde.</p>
 								<p><a href="#" class="btn-learn">Learn More <i class="icon-arrow-right3"></i></a></p>
 							</div>
 						</div>
@@ -274,11 +275,12 @@
 					<div class="col-md-4 animate-box">
 						<div class="classes">
 							<div class="classes-img" style="background-image: url(images/f.jpg);">
-								<span class="price text-center"><small>Form one West</small></span>
+								<span class="price text-center"><small>March Intake</small></span>
 							</div>
 							<div class="desc">
-								<h3><a href="#">Weekend Practicals</a></h3>
-								<p>Pointing has no control about the blind texts it is an almost unorthographic life</p>
+								<h3><a href="#">Computer Packages Department</a></h3>
+								<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatum sunt
+							    molestiae quae eveniet, minus id, et ratione</p>
 								<p><a href="#" class="btn-learn">Learn More <i class="icon-arrow-right3"></i></a></p>
 							</div>
 						</div>
@@ -286,11 +288,12 @@
 					<div class="col-md-4 animate-box">
 						<div class="classes">
 							<div class="classes-img" style="background-image: url(images/c.jpg);">
-								<span class="price text-center"><small>Form Two East</small></span>
+								<span class="price text-center"><small>May Intake</small></span>
 							</div>
 							<div class="desc">
-								<h3><a href="#">Morning Preps</a></h3>
-								<p>Pointing has no control about the blind texts it is an almost unorthographic life</p>
+								<h3><a href="#">Accounting Department</a></h3>
+								<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit.
+								quidem molestiae minus. Omnis, animi </p>
 								<p><a href="#" class="btn-learn">Learn More <i class="icon-arrow-right3"></i></a></p>
 							</div>
 						</div>
@@ -298,11 +301,12 @@
 					<div class="col-md-4 animate-box">
 						<div class="classes">
 							<div class="classes-img" style="background-image: url(images/d.jpg);">
-								<span class="price text-center"><small>Form Two West</small></span>
+								<span class="price text-center"><small>August Intake</small></span>
 							</div>
 							<div class="desc">
-								<h3><a href="#">Night Studies</a></h3>
-								<p>Pointing has no control about the blind texts it is an almost unorthographic life</p>
+								<h3><a href="#">Business Management Department</a></h3>
+								<p>Lorem ipsum dolor sit amet consectetur adipisicing elit.
+								 Eligendi recusandae, dolore voluptatibus ipsam sunt</p>
 								<p><a href="#" class="btn-learn">Learn More <i class="icon-arrow-right3"></i></a></p>
 							</div>
 						</div>
@@ -310,11 +314,12 @@
 					<div class="col-md-4 animate-box">
 						<div class="classes">
 							<div class="classes-img" style="background-image: url(images/a.jpg);">
-								<span class="price text-center"><small>Form Three East</small></span>
+								<span class="price text-center"><small>September Intake</small></span>
 							</div>
 							<div class="desc">
-								<h3><a href="#">Student Union</a></h3>
-								<p>Pointing has no control about the blind texts it is an almost unorthographic life</p>
+								<h3><a href="#">Carpentry and Wood Work Department</a></h3>
+								<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. 
+								Facere repellendus voluptate adipisci dolores ratione alias id doloremque iusto.</p>
 								<p><a href="#" class="btn-learn">Learn More <i class="icon-arrow-right3"></i></a></p>
 							</div>
 						</div>
@@ -322,11 +327,11 @@
 					<div class="col-md-4 animate-box">
 						<div class="classes">
 							<div class="classes-img" style="background-image: url(images/d.jpg);">
-								<span class="price text-center"><small>Form Three West</small></span>
+								<span class="price text-center"><small>November Intake</small></span>
 							</div>
 							<div class="desc">
-								<h3><a href="#">Dormnitory Department</a></h3>
-								<p>Pointing has no control about the blind texts it is an almost unorthographic life</p>
+								<h3><a href="#">Sociology Department</a></h3>
+								<p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. iusto recusandae quibusdam saepe qu</p>
 								<p><a href="#" class="btn-learn">Learn More <i class="icon-arrow-right3"></i></a></p>
 							</div>
 						</div>
@@ -340,7 +345,7 @@
 			<div class="container">
 				<div class="row">
 					<div class="col-md-8 col-md-offset-2 text-center colorlib-heading animate-box">
-						<h2>What Are The Students Says</h2>
+						<h2>The College Board Of Management</h2>
 					</div>
 				</div>
 				<div class="row">
@@ -351,8 +356,8 @@
 									<div class="testimony-slide">
 										<div class="testimony-wrap">
 											<blockquote>
-												<span>John Victor</span>
-												<p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean.</p>
+												<span>Joseph Karima</span>
+							<p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
 											</blockquote>
 											<div class="figure-img" style="background-image: url(images/person2.jpg);"></div>
 										</div>
@@ -364,7 +369,7 @@
 											<blockquote>
 												<span>Georgina Phosia</span>
 												<p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Error, nulla distinctio? Est deleniti reiciendis esse 
-                                                suscipit eum unde natus ipsa? Neque, tenetur? </p>
+                                                suscipit eum unde natus ipsa.</p>
 											</blockquote>
 											<div class="figure-img" style="background-image: url(images/person1.jpg);"></div>
 										</div>
@@ -392,10 +397,9 @@
 			<div class="container">
 				<div class="row">
 					<div class="col-md-8 col-md-offset-2 text-center colorlib-heading animate-box">
-						<h2>Meet Our Experienced School Management</h2>
+						<h2>Meet Our Experienced College Management</h2>
 						<p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. 
-                        Sint suscipit distinctio delectus iste eius,
-                        non dolorum cupiditate iusto impedit explicabo iure ipsam corporis facilis expedita assumenda eaque excepturi optio sed?</p>
+                        Sint suscipit distinctio delectus iste eius, expedita assumenda eaque excepturi optio sed?</p>
 					</div>
 				</div>
 				<div class="row">
@@ -447,7 +451,7 @@
 				<div class="row">
 					<div class="col-md-8 col-md-offset-2 text-center colorlib-heading animate-box">
 						<h2>Upcoming Events</h2>
-						<p>Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic life One day however a small line of blind text by the name</p>
+						<p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Error veritatis</p>
 					</div>
 				</div>
 				<div class="event-flex row-pb-sm">
@@ -460,11 +464,11 @@
 									<div class="desc">
 										<p class="meta"><span class="day">28</span><span class="month">Jan</span></p>
 										<p class="organizer"><span>Organized by:</span> <span>MR.NICKSON KIRUI</span></p>
-										<h2><a href="event.html">School Prayer Day</a></h2>
+										<h2><a href="event.html">Science Innovation Day</a></h2>
 									</div>
 									<div class="location">
 										<span class="icon"><i class="icon-map"></i></span>
-										<p>ORERO BOYS HIGH SCHOOL</p>
+										<p>SCHOOL MEETING LAUNCH</p>
 									</div>
 								</div>
 							</div>
@@ -477,7 +481,7 @@
 									</div>
 									<div class="location">
 										<span class="icon"><i class="icon-map"></i></span>
-										<p>HOMA-BAY HIGH SCHOOL</p>
+										<p>COLLEGE FOOTBALL PLAYGROUND</p>
 									</div>
 								</div>
 							</div>
@@ -486,11 +490,11 @@
 									<div class="desc">
 										<p class="meta"><span class="day">19</span><span class="month">April</span></p>
 										<p class="organizer"><span>Organized by:</span> <span>Mr.RICHARD OCHIENG'</span></p>
-										<h2><a href="event.html">Kanga Chemistry Annual Contest 2019</a></h2>
+										<h2><a href="event.html">Ofiicial Projects Presentation</a></h2>
 									</div>
 									<div class="location">
 										<span class="icon"><i class="icon-map"></i></span>
-										<p>KANGA HIGH SCHOOL</p>
+										<p>SCHOOL INNOVATION HALL</p>
 									</div>
 								</div>
 							</div>
@@ -506,7 +510,7 @@
 				<div class="row">
 					<div class="col-md-8 col-md-offset-2 text-center colorlib-heading animate-box">
 						<h2>Recent News</h2>
-						<p>Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic life One day however a small line of blind text by the name</p>
+						<p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
 					</div>
 				</div>
 				<div class="row">
@@ -518,7 +522,8 @@
 							<div class="desc">
 								<h2><a href="blog.html">Inter-Classes Football Competiion</a></h2>
 								<p class="admin"><span>Posted by:</span> <span>James Aroko</span></p>
-								<p>Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic life. The Big Oxmox advised her not to do so, because there were thousands of bad Commas, wild Question Marks and devious Semikoli, but the Little Blind Text didn’t listen. She packed her seven versalia, put her initial into the belt and made herself on the way.</p>
+								<p>Lorem ipsum dolor sit amet consectetur adipisicing elit.
+								Praesentium vitae eligendi vel repellat itaque voluptate sint nam.</p>
 							</div>
 						</article>
 					</div>
@@ -529,7 +534,8 @@
 							<div class="desc">
 								<h2><a href="blog.html">Official 2019 opener examination</a></h2>
 								<p class="admin"><span>14 Jan 2019</span></p>
-								<p>Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic life</p>
+								<p>Lorem ipsum dolor sit, 
+								amet consectetur adipisicing elit. Voluptas ducimus, aperiam provident.</p>
 							</div>
 						</div>
 						<div class="f-blog animate-box">
@@ -538,7 +544,8 @@
 							<div class="desc">
 								<h2><a href="blog.html">Visiting Day</a></h2>
 								<p class="admin"><span>19 January 2019</span></p>
-								<p>Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic life</p>
+								<p>Lorem ipsum dolor sit amet consectetur adipisicing elit.
+								Perspiciatis provident quisquam totam minima fugiat veritatis,</p>
 							</div>
 						</div>
 						<div class="f-blog animate-box">
@@ -547,7 +554,8 @@
 							<div class="desc">
 								<h2><a href="blog.html">School Debate</a></h2>
 								<p class="admin"><span>10 Feb 2019</span></p>
-								<p>Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic life</p>
+								<p>Lorem, 
+								ipsum dolor sit amet consectetur adipisicing elit.</p>
 							</div>
 						</div>
 					</div>
