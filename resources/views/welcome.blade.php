@@ -9,7 +9,7 @@
 			   			<div class="row">
 				   			<div class="col-md-8 col-sm-12 col-md-offset-2 slider-text">
 				   				<div class="slider-text-inner text-center">
-				   					<h1 style="color: #FE0000">Welcome To Rangwe Institute</h1>
+				   					<h1 style="color: #FE0000">Welcome To Rangwe Training Polytechnic</h1>
 				   					<p><a href="#" class="btn btn-primary btn-lg btn-learn">Register Now</a></p>
 				   				</div>
 				   			</div>
@@ -36,7 +36,7 @@
 				   			<div class="col-md-8 col-sm-12 col-md-offset-2 slider-text">
 				   				<div class="slider-text-inner text-center">
 				   					<h1 style="color: #FE0000">Education is a Key to Success</h1>
-				   					<p><a href="#" class="btn btn-primary btn-lg btn-learn">Register Now</a></p>
+				   					<p><a href="#" class="btn btn-primary btn-lg btn-learn">Secure a Chance Today</a></p>
 				   				</div>
 				   			</div>
 				   		</div>
@@ -66,10 +66,10 @@
 						<div class="intro-flex">
 							<div class="one-third color-1 animate-box">
 								<span class="icon"><i class="flaticon-market"></i></span>
-								<div class="desc">
+								<!-- <div class="desc">
 									<h3>Specific Course</h3>
 									<p><a href="#" class="view-more">View More</a></p>
-								</div>
+								</div> -->
 							</div>
 							<div class="one-third color-2 animate-box">
 								<span class="icon"><i class="flaticon-open-book"></i></span>
@@ -88,7 +88,7 @@
 					</div>
 					<div class="col-md-8">
 						<div class="about-desc animate-box">
-							<h2 style="color: #0000FE">Welcome To Rangwe Training Institute</h2>
+							<h2 style="color: #0000FE">Welcome To Rangwe Polytechnic College</h2>
 							<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. 
                             Soluta ratione quisquam natus praesentium ducimus bland.</p>
 							<div class="fancy-collapse-panel">
@@ -124,7 +124,7 @@
 	                         </div>
 	                         <div id="collapseTwo" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingTwo">
 	                             <div class="panel-body">
-	                                 <p>Far far away, behind the word <strong>mountains</strong>, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean.</p>
+	                                 <p>Lorem, bipsum <strong>lorem</strong>Lorem ipsum dolor sit amet consectetur, adipisicing elit.</p>
 												<ul>
 													<li>Lorem ipsum dolor sit, amet consectetur adipisicing elit.</li>
 													<li>Lorem ipsum dolor sit, amet consectetur adipisicing elit.</li>
@@ -141,7 +141,7 @@
 	                         </div>
 	                         <div id="collapseThree" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingThree">
 	                             <div class="panel-body">
-	                                 <p>Far far<strong>mountains</strong>, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean.</p>	
+	                                 <p>Lorem<strong>ipsum</strong>,Lorem ipsum dolor sit amet consectetur adipisicing elit. Veniam, sapiente </p>	
 	                             </div>
 	                         </div>
 	                     </div>
@@ -255,7 +255,7 @@
 					<div class="col-md-8 col-md-offset-2 text-center colorlib-heading animate-box">
 						<h2>Our Schools and Department</h2>
 						<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. 
-						Similique alias cumque ducimus quibusdam, quos cum delectus nemo r</p>
+						Similique alias cumque ducimus quibusdam, quos cum delectus nemo</p>
 					</div>
 				</div>
 				<div class="row">
@@ -288,25 +288,25 @@
 					<div class="col-md-4 animate-box">
 						<div class="classes">
 							<div class="classes-img" style="background-image: url(images/c.jpg);">
-								<span class="price text-center"><small>May Intake</small></span>
+								<span class="price text-center"><small>April Intake</small></span>
 							</div>
 							<div class="desc">
-								<h3><a href="#">Accounting Department</a></h3>
-								<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-								quidem molestiae minus. Omnis, animi </p>
+								<h3><a href="#">Business Management Department</a></h3>
+								<p>Lorem ipsum dolor sit amet consectetur adipisicing elit.
+								 Eligendi recusandae, dolore voluptatibus ipsam sunt</p>
 								<p><a href="#" class="btn-learn">Learn More <i class="icon-arrow-right3"></i></a></p>
 							</div>
 						</div>
 					</div>
 					<div class="col-md-4 animate-box">
 						<div class="classes">
-							<div class="classes-img" style="background-image: url(images/d.jpg);">
+							<div class="classes-img" style="background-image: url(images/g.jpg);">
 								<span class="price text-center"><small>August Intake</small></span>
 							</div>
 							<div class="desc">
-								<h3><a href="#">Business Management Department</a></h3>
-								<p>Lorem ipsum dolor sit amet consectetur adipisicing elit.
-								 Eligendi recusandae, dolore voluptatibus ipsam sunt</p>
+								<h3><a href="#">Marketing Management Department</a></h3>
+								<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. 
+								Facere repellendus voluptate adipisci dolores ratione alias.</p>
 								<p><a href="#" class="btn-learn">Learn More <i class="icon-arrow-right3"></i></a></p>
 							</div>
 						</div>
@@ -319,7 +319,7 @@
 							<div class="desc">
 								<h3><a href="#">Carpentry and Wood Work Department</a></h3>
 								<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. 
-								Facere repellendus voluptate adipisci dolores ratione alias id doloremque iusto.</p>
+								Facere repellendus voluptate adipisci dolores ratione alias.</p>
 								<p><a href="#" class="btn-learn">Learn More <i class="icon-arrow-right3"></i></a></p>
 							</div>
 						</div>
@@ -331,7 +331,8 @@
 							</div>
 							<div class="desc">
 								<h3><a href="#">Sociology Department</a></h3>
-								<p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. iusto recusandae quibusdam saepe qu</p>
+								<p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. 
+								iusto recusandae quibusdam saepe qu</p>
 								<p><a href="#" class="btn-learn">Learn More <i class="icon-arrow-right3"></i></a></p>
 							</div>
 						</div>
@@ -339,6 +340,7 @@
 				</div>
 			</div>	
 		</div>
+
 
 		<div id="colorlib-testimony" class="testimony-img" style="background-image: url(images/b.jpg);" data-stellar-background-ratio="0.5">
 			<div class="overlay"></div>
@@ -520,7 +522,7 @@
 								<p class="meta"><span class="day">18</span><span class="month">Jan</span></p>
 							</a>
 							<div class="desc">
-								<h2><a href="blog.html">Inter-Classes Football Competiion</a></h2>
+								<h2><a href="blog.html">Inter-College Football Competiion</a></h2>
 								<p class="admin"><span>Posted by:</span> <span>James Aroko</span></p>
 								<p>Lorem ipsum dolor sit amet consectetur adipisicing elit.
 								Praesentium vitae eligendi vel repellat itaque voluptate sint nam.</p>
@@ -532,7 +534,7 @@
 							<a href="blog.html" class="blog-img" style="background-image: url(images/f.jpg);">
 							</a>
 							<div class="desc">
-								<h2><a href="blog.html">Official 2019 opener examination</a></h2>
+								<h2><a href="blog.html">2019 KASNEB Examination</a></h2>
 								<p class="admin"><span>14 Jan 2019</span></p>
 								<p>Lorem ipsum dolor sit, 
 								amet consectetur adipisicing elit. Voluptas ducimus, aperiam provident.</p>
@@ -542,7 +544,7 @@
 							<a href="blog.html" class="blog-img" style="background-image: url(images/a.jpg);">
 							</a>
 							<div class="desc">
-								<h2><a href="blog.html">Visiting Day</a></h2>
+								<h2><a href="blog.html">Graduation Day</a></h2>
 								<p class="admin"><span>19 January 2019</span></p>
 								<p>Lorem ipsum dolor sit amet consectetur adipisicing elit.
 								Perspiciatis provident quisquam totam minima fugiat veritatis,</p>

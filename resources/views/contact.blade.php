@@ -3,13 +3,13 @@
 		<aside id="colorlib-hero">
 			<div class="flexslider">
 				<ul class="slides">
-			<li style="background-image: url(images/img_bg_2.jpg);">
+			<li style="background-image: url(images/img_bg_4.jpg);">
 			   	 <div class="overlay"></div>
 			   	    <div class="container-fluid">
 			   			<div class="row">
 				   			<div class="col-md-6 col-sm-12 col-md-offset-3 slider-text">
 				   				<div class="slider-text-inner text-center">
-				   					<h1>Contact Us</h1>
+				   					<h1 style="color: #FE0000">Contact Us</h1>
 				   					<h2><span><a href="index.html">Home</a> | Contact</span></h2>
 				   				</div>
 				   			</div>
@@ -29,16 +29,16 @@
 							<div class="col-md-12">
 								<div class="contact-info-wrap-flex">
 									<div class="con-info">
-										<p><span><i class="icon-location-2"></i></span> Private School <br> P.O BOX,236,OYUGIS-KENYA</p>
+										<p><span><i class="icon-location-2"></i></span> Rangwe Polytechnic College <br> P.O BOX,236,OYUGIS-KENYA</p>
 									</div>
 									<div class="con-info">
-										<p><span><i class="icon-phone3"></i></span> <a href="tel://+254705820937">+ 254705820937/a></p>
+										<p><span><i class="icon-phone3"></i></span> <a href="tel://+254705820937">+ 254705820937</a></p>
 									</div>
 									<div class="con-info">
-										<p><span><i class="icon-paperplane"></i></span> <a href="mailto:privateschool@gmail.com">privateschool@gmail.com</a></p>
+										<p><span><i class="icon-paperplane"></i></span> <a href="mailto:rangwepolycollege@gmail.com">rangwepolycollege@gmail.com</a></p>
 									</div>
 									<div class="con-info">
-										<p><span><i class="icon-globe"></i></span> <a href="#">privateschool.com</a></p>
+										<p><span><i class="icon-globe"></i></span> <a href="#">rangwepolycollege.com</a></p>
 									</div>
 								</div>
 							</div>

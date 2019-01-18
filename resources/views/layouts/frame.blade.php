@@ -195,7 +195,7 @@
 							</div>
 						</div>
 						<div class="f-blog">
-							<a href="blog.html" class="blog-img" style="background-image: url(g.jpg);">
+							<a href="blog.html" class="blog-img" style="background-image: url(images/b.jpg);">
 							</a>
 							<div class="desc">
 								<h2><a href="blog.html">Registration To KASNEB Examination</a></h2>

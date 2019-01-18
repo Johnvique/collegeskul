@@ -3,7 +3,7 @@
 		<aside id="colorlib-hero">
 			<div class="flexslider">
 				<ul class="slides">
-			   	<li style="background-image: url(images/img_bg_1.jpg);">
+			   	<li style="background-image: url(images/a.jpg);">
 			   		<div class="overlay"></div>
 			   		<div class="container-fluid">
 			   			<div class="row">
@@ -20,15 +20,15 @@
 		  	</div>
 		</aside>
 		
-		<div id="colorlib-about" class="colorlib-light-grey">
+		<!-- <div id="colorlib-about" class="colorlib-light-grey">
 			<div class="container">
 				<div class="row row-pb-md">
 					<div class="col-md-8 col-md-offset-2 row-pb-md animate-box">
-						<div class="video colorlib-video" style="background-image: url(images/img_bg_4.jpg);">
+						<div class="video colorlib-video" style="background-image: url(images/b.jpg);">
 							<a href="https://vimeo.com/channels/staffpicks/93951774" class="popup-vimeo"><i class="icon-play3"></i></a>
 							<div class="overlay"></div>
 						</div>
-					</div>
+					</div> -->
 					<div class="col-md-10 col-md-offset-1 text-center animate-box">
 						<div class="about-wrap">
 							<div class="heading-2">
@@ -57,14 +57,14 @@
 			<div class="container">
 				<div class="row">
 					<div class="col-md-8 col-md-offset-2 text-center colorlib-heading animate-box">
-						<h2>Our Experienced Professor</h2>
+						<h2>Our Experienced Lecturers</h2>
 						<p>Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic life One day however a small line of blind text by the name</p>
 					</div>
 				</div>
 				<div class="row">
 					<div class="col-md-3 col-sm-3 animate-box">
 						<div class="trainers-entry">
-							<div class="trainer-img" style="background-image: url(images/img_bg_3.jpg)"></div>
+							<div class="trainer-img" style="background-image: url(images/person1.jpg)"></div>
 							<div class="desc">
 								<h3>Olivia Young</h3>
 								<span>Teacher</span>
