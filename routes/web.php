@@ -26,8 +26,8 @@ Route::get('/about', function () {
 Route::get('/event', function () {
     return view('event');
 });
-Route::get('/news', function () {
-    return view('news');
+Route::get('/fee', function () {
+    return view('fee');
 });
 Route::get('/contact', function () {
     return view('contact');

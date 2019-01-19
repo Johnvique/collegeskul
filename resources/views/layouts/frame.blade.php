@@ -72,7 +72,6 @@
 									<li><a href="#"><i class="icon-twitter"></i></a></li>
 									<li><a href="#"><i class="icon-facebook"></i></a></li>
 									<li><a href="#"><i class="icon-linkedin"></i></a></li>
-									<li><a href="#"><i class="icon-dribbble"></i></a></li>
 								</ul>
 							</p>
 							<p class="btn-apply"><a href="#">Register Now</a></p>
@@ -103,7 +102,7 @@
 								</li>
 								<li><a href="{{url('about')}}">About</a></li>
 								<li><a href="{{url('event')}}">Events</a></li>
-								<li><a href="{{url('news')}}">News</a></li>
+								<li><a href="{{url('fee')}}">Fee Payment</a></li>
 								<li><a href="{{url('contact')}}">Contact</a></li>
 								<li class="btn-cta"><a href="#"><span>Talk to us</span></a></li>
 							</ul>
@@ -170,7 +169,7 @@
 								<li><a href="#"><i class="icon-check"></i> Testimonials</a></li>
 								<li><a href="#"><i class="icon-check"></i> Courses</a></li>
 								<li><a href="#"><i class="icon-check"></i> Event</a></li>
-								<li><a href="#"><i class="icon-check"></i> News</a></li>
+								<li><a href="#"><i class="icon-check"></i> Fee Payment</a></li>
 								<li><a href="#"><i class="icon-check"></i> Contact</a></li>
 							</ul>
 						</p>
