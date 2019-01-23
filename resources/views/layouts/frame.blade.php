@@ -1,6 +1,6 @@
 <!DOCTYPE HTML>
 <html>
-	<head>
+<head>
 	<meta charset="utf-8">
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
 	<title>Rangwe Polytechnic College</title>
@@ -64,7 +64,7 @@
 				<div class="container">
 					<div class="row">
 						<div class="col-xs-4">
-							<p>Welcome to Rangwe Polytechnic College</p>
+							<p style="color: #FE0000">Welcome to Rangwe Polytechnic College</p>
 						</div>
 						<div class="col-xs-6 col-md-push-2 text-right">
 							<p>
@@ -83,26 +83,14 @@
 				<div class="container">
 					<div class="row">
 						<div class="col-md-2">
-							<div id="colorlib-logo"><a href="index.html">Rangwe Polytechnic College</a></div>
+							<div id="colorlib-logo"><a href="{{url('')}}"><span style="color: #00D9D9"><em>Rangwe Polytechnic College</em></span></a></div>
 						</div>
 						<div class="col-md-10 text-right menu-1">
 							<ul>
-								<li class="active"><a href="{{url('welcome')}}">Home</a></li>
-								<li class="has-dropdown">
-								<a href="{{url('courses')}}">Courses</a>
-									<ul class="dropdown">
-										<li><a href="#">Computer Packages</a></li>
-										<li><a href="#">Business Management</a></li>
-										<li><a href="#">Accounting</a></li>
-										<li><a href="#">Marketing Management</a></li>
-										<li><a href="#">Sociology</a></li>
-										<li><a href="#">Youth Mentorship</a></li>
-										<li><a href="#">Carpentry and Woodwork</a></li>
-									</ul>
-								</li>
+								<li class="active"><a href="{{url('')}}">Home</a></li>
 								<li><a href="{{url('about')}}">About</a></li>
+								<li><a href="{{url('courses')}}">Courses</a></li>
 								<li><a href="{{url('event')}}">Events</a></li>
-								<li><a href="{{url('fee')}}">Fee Payment</a></li>
 								<li><a href="{{url('contact')}}">Contact</a></li>
 								<li class="btn-cta"><a href="#"><span>Talk to us</span></a></li>
 							</ul>
@@ -147,7 +135,7 @@
 		<footer id="colorlib-footer">
 			<div class="container">
 				<div class="row row-pb-md">
-					<div class="col-md-3 colorlib-widget">
+					<div class="col-md-4 colorlib-widget">
 						<h4>About Rangwe Polytechnic</h4>
 						<p>Lorem, ipsum dolor sit amet consectetur adipisicing elit.
 						Laudantium quos delectus repellendus totam voluptas nam dicta neque odio,
@@ -157,53 +145,24 @@
 								<li><a href="#"><i class="icon-twitter"></i></a></li>
 								<li><a href="#"><i class="icon-facebook"></i></a></li>
 								<li><a href="#"><i class="icon-linkedin"></i></a></li>
-								<li><a href="#"><i class="icon-dribbble"></i></a></li>
 							</ul>
 						</p>
 					</div>
-					<div class="col-md-3 colorlib-widget">
+					<div class="col-md-4 colorlib-widget">
 						<h4>Quick Links</h4>
 						<p>
 							<ul class="colorlib-footer-links">
-								<li><a href="#"><i class="icon-check"></i> About Us</a></li>
-								<li><a href="#"><i class="icon-check"></i> Testimonials</a></li>
-								<li><a href="#"><i class="icon-check"></i> Courses</a></li>
-								<li><a href="#"><i class="icon-check"></i> Event</a></li>
-								<li><a href="#"><i class="icon-check"></i> Fee Payment</a></li>
-								<li><a href="#"><i class="icon-check"></i> Contact</a></li>
+							
+							    <li><a href="{{url('/')}}"><i class="icon-check"></i> Home</a></li>
+								<li><a href="{{url('about')}}"><i class="icon-check"></i> About Us</a></li>
+								<li><a href="{{url('courses')}}"><i class="icon-check"></i> Courses</a></li>
+								<li><a href="{{url('event')}}"><i class="icon-check"></i> Event</a></li>
+								<li><a href="{{url('contact')}}"><i class="icon-check"></i> Contact</a></li>
 							</ul>
 						</p>
 					</div>
 
-					<div class="col-md-3 colorlib-widget">
-						<h4>Recent Post</h4>
-						<div class="f-blog">
-							<a href="blog.html" class="blog-img" style="background-image: url(images/e.jpg);">
-							</a>
-							<div class="desc">
-								<h2><a href="blog.html">Opening Dates</a></h2>
-								<p class="admin"><span>10 January 2019</span></p>
-							</div>
-						</div>
-						<div class="f-blog">
-							<a href="blog.html" class="blog-img" style="background-image: url(images/f.jpg);">
-							</a>
-							<div class="desc">
-								<h2><a href="blog.html">Arrival Of New Students</a></h2>
-								<p class="admin"><span>12 January 2019</span></p>
-							</div>
-						</div>
-						<div class="f-blog">
-							<a href="blog.html" class="blog-img" style="background-image: url(images/b.jpg);">
-							</a>
-							<div class="desc">
-								<h2><a href="blog.html">Registration To KASNEB Examination</a></h2>
-								<p class="admin"><span>14 January 2019</span></p>
-							</div>
-						</div>
-					</div>
-
-					<div class="col-md-3 colorlib-widget">
+					<div class="col-md-4 colorlib-widget">
 						<h4>Contact Info</h4>
 						<ul class="colorlib-footer-links">
 							<li>Rangwe Polytechnic College,<br>P.O BOX,236-40222,OYUGIS-KENYA</li>
@@ -223,7 +182,7 @@
 Copyright &copy;<script>document.write(new Date().getFullYear());</script> All rights reserved | Developed By </i><a href="https://github.com/Johnvique" target="_blank">Johnvique</a>
 
 </small><br> 
-		<small class="block">Webmaster:@<a href="http://johntechhub.co.ke/" target="_blank">Johntech Hub</a></small>
+		<small class="block">Webmaster:@<a href="http://johntekhub.co.ke/" target="_blank">Johntek Hub</a></small>
 							</p>
 						</div>
 					</div>
